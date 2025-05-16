@@ -21,7 +21,7 @@ module.exports = {
 
   langs: {
     en: {
-      help: `━ (remplace par le nom de ton Bot )𝗕𝗢𝗧 ━
+      help: `━ (Lowen-bot)𝗕𝗢𝗧 ━
 Flux (( img generation ))
 
 ━━━ 𝗚𝗥𝗢𝗨𝗣 ━━━
