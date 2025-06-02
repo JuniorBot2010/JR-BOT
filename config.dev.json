@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "iajunior506@gmail.com",
+		"password": "202002",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -12,14 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": " 🏵️~𝗘𝗠𝗠𝗔☆(❁‿❁)☆~🏵️",
-	"prefix": "'",
+	"nickNameBot": " 🏵️~𝑱𝑹 𝑩𝑶𝑻☆(❁‿❁)☆~🏵️",
+	"prefix": "★",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100085261760009",
+		"100052648010710",
 		""
 	],
 	"whiteListMode": {
